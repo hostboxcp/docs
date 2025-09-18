@@ -1,0 +1,1 @@
+const t={key:"v-4f9e73d4",path:"/security/",title:"Security",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1719630108e3,contributors:[{name:"istiak101",email:"git@istiak.com",commits:1}]},filePathRelative:"security/README.md"};export{t as data};

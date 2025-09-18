@@ -1,0 +1,1 @@
+const t={key:"v-08a5d2dc",path:"/installation/",title:"HostBoxCP Installation",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1719630108e3,contributors:[{name:"istiak101",email:"git@istiak.com",commits:1}]},filePathRelative:"installation/README.md"};export{t as data};

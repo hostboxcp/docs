@@ -1,0 +1,1 @@
+const t={key:"v-6f6d1978",path:"/python-selector/",title:"Python Selector",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1719630108e3,contributors:[{name:"istiak101",email:"git@istiak.com",commits:1}]},filePathRelative:"python-selector/README.md"};export{t as data};

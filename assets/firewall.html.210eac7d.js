@@ -1,0 +1,1 @@
+const t={key:"v-1bfa3183",path:"/security/firewall.html",title:"Firewalld",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1719630108e3,contributors:[{name:"istiak101",email:"git@istiak.com",commits:1}]},filePathRelative:"security/firewall.md"};export{t as data};

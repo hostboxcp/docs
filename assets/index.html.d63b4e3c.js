@@ -1,0 +1,1 @@
+const t={key:"v-7c950fc2",path:"/php-selector/",title:"PHP Selector",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1719630108e3,contributors:[{name:"istiak101",email:"git@istiak.com",commits:1}]},filePathRelative:"php-selector/README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-a937da0c",path:"/email/webmail.html",title:"WebMail",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1719630108e3,contributors:[{name:"istiak101",email:"git@istiak.com",commits:1}]},filePathRelative:"email/webmail.md"};export{e as data};
