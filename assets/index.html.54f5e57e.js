@@ -1,1 +1,0 @@
-import{_ as e,o as t,a as o,b as a,d as s}from"./app.1b617780.js";const n={},c={id:"hostboxcp-installation",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#hostboxcp-installation","aria-hidden":"true"},"#",-1),i=s(" HostBoxCP Installation"),r=[_,i];function d(h,l){return t(),o("h1",c,r)}var f=e(n,[["render",d],["__file","index.html.vue"]]);export{f as default};
